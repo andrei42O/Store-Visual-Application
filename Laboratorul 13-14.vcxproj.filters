@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{091419ee-a96a-4a5d-9e23-a84448a76db9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5a00d111-5a8e-4ea6-a1f8-b9e3df991d31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{e1ee73f4-2765-48d0-95ad-b6005354425e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Storage">
+      <UniqueIdentifier>{29d8622c-f513-4374-865d-0672b7c29ef2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Domain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShoppingCart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UndoAction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Observers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="GUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Domain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exceptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShoppingCart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UndoAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Validate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Observers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="produse.txt">
+      <Filter>Storage</Filter>
+    </Text>
+    <Text Include="test.txt">
+      <Filter>Storage</Filter>
+    </Text>
+    <Text Include="testfile.txt">
+      <Filter>Storage</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\stonks (1).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (2).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (3).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (4).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (5).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (6).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (7).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (8).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (9).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (10).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (11).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (12).png">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="images\stonks (13).png">
+      <Filter>Images</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

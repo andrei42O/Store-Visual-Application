@@ -1,0 +1,21 @@
+[2021-05-25 16:30:22] [info] Start Program:
+Path:"D:\\Facultate\\An1 - sem2\\Object oriented programming\\Laboratorul 13-14\\x64\\Debug\\Laboratorul 13-14.exe"
+Arguments:
+Working directory: "D:\\Facultate\\An1 - sem2\\Object oriented programming\\Laboratorul 13-14\\"
+Modules: Selected: D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\Laboratorul 13-14.exe Excluded: 
+Sources: Selected: D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14 Excluded: GUI.h GUI.cpp UI.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\andre\AppData\Local\Temp\rhfio1sm.e5f 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-25 16:30:22] [info] Module: D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\Laboratorul 13-14.exe is selected because it matches selected pattern: D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\Laboratorul 13-14.exe
+[2021-05-25 16:30:22] [info] ----------------------------------------------------
+[2021-05-25 16:30:22] [info] Coverage binary generated in file: C:\Users\andre\AppData\Local\Temp\rhfio1sm.e5f
+[2021-05-25 16:30:22] [info] ----------------------------------------------------

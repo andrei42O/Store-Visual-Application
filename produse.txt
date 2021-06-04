@@ -1,0 +1,6 @@
+Turbina,TDI,Volkswagen,1800
+Scaun,Lemn,Ikeea,60
+Tractor,RType,John Deere,196985
+Gantera,Premium,Decathlon,160
+Parfum,Sweet,Tom Ford,700
+Stickul,SSDul,Kingston,90

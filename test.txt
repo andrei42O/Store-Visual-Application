@@ -1,0 +1,5 @@
+Parfum,Sweet,Tom Ford,700
+Gantera,Premium,Decathlon,160
+Tractor,RType,John Deere,196985
+Scaun,Lemn,Ikeea,60
+Stickul,SSDul,Kingston,90
