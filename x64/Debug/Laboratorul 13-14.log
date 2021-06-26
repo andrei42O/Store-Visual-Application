@@ -2,15 +2,16 @@
   Domain.cpp
   Exceptions.cpp
   GUI.cpp
+  main.cpp
+  Observers.cpp
   Repository.cpp
   Service.cpp
   ShoppingCart.cpp
-  Tests.cpp
   UI.cpp
+  Tests.cpp
   UndoAction.cpp
   Validate.cpp
-  main.cpp
   moc_GUI.cpp
-  Laboratorul 13-14.vcxproj -> D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\Laboratorul 13-14.exe
-  windeployqt: "C:/Qt/6.1.0/msvc2019_64/bin\windeployqt.exe" --list target --dir "D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\\" "D:\Facultate\An1 - sem2\Object oriented programming\Laboratorul 13-14\x64\Debug\Laboratorul 13-14.exe"
+  Laboratorul 13-14.vcxproj -> D:\GitHub\Store-Visual-Application\x64\Debug\Laboratorul 13-14.exe
+  windeployqt: "C:/Qt/6.1.0/msvc2019_64/bin\windeployqt.exe" --list target --dir D:\GitHub\Store-Visual-Application\x64\Debug\ "D:\GitHub\Store-Visual-Application\x64\Debug\Laboratorul 13-14.exe"
 EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.
